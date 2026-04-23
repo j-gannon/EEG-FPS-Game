@@ -1,6 +1,7 @@
 # EEG-FPS-Game
 
 
+The game is currently only compatible with PC, since it uses BlueMuse, which does not have a MacOS version.
 
 To play the game:
 
